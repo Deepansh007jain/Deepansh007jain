@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepansh007jain&label=Profile%20views&color=0e75b6&style=flat" alt="deepansh007jain" /> </p>
 
-- 🔭 I’m currently working on **PREEXERCISE**
+- 🔭 I’m currently working on **Entertainment Mania**
 
 - 🌱 I’m currently learning **DBMS and Android Development**
 
