@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **jaindeepansh007@gmail.com ,**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1VSxWRvFdAJEwerm9XrqRXeQJvnz4yt9j/view?usp=sharing]
+- 📄 Know about my experiences[https://drive.google.com/file/d/1CPySZvben7ZVHcqx4in02Ec7doHGN3Yv/view?usp=sharing]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
